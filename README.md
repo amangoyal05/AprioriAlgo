@@ -1,2 +1,2 @@
 # AprioriAlgo
-Analysis of Google trends using Apriori Algorithm.
+Analysis of items that are frequently together using Apriori Algorithm.
